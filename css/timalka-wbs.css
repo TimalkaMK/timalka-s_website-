@@ -1,0 +1,33 @@
+body{
+	margin: 40px;
+	font-family: 'Lato', sans-serif;}
+h1{
+	margin-top: 80px;
+	font-size: 38pt;
+	color: C4C4B5; }
+h2{
+	font-size: 32pt;
+	color: C9B7B7;}
+h3{font-size: 28pt;
+	color: C9B7B7;}
+ul{
+	text-align:center;}
+ul#links li{
+	display:inline;
+	padding:20px;}
+.intro{
+	text-align: left;}
+.footer{
+	width: 90%;
+	height: 30px;
+	position: absolute;
+	margin-bottom: 15px;
+	padding-top:150px;}
+.fa-envelope {
+  color: C4C4B5;}
+.fa-github {
+  color: C4C4B5;}
+.fa-soundcloud{
+  color: C4C4B5;}
+.fa-linkedin{
+  color: C4C4B5;}
